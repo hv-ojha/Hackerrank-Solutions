@@ -32,3 +32,4 @@ Following is the list of problems you will find in this repository
 26. [Apple and Orange](Apple-and-Orange.java)
 27. [Day 2: Operators](Day-2-Operators.java)
 28. [Day 3: Intro to Conditional Statements](Day-3-Intro-to-Conditional-Statements.java)
+29. [2D Array - DS](2D-Array-DS.java)
